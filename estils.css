@@ -1,8 +1,10 @@
+<!--estil del titol-->
 h1  {
      color: green;
      text-align: center;
      font-weight: bold;
      }
+<!estil de la taula-->
 table, th, td  {
      border: 2px solid;
      border-collapse: collapse;
